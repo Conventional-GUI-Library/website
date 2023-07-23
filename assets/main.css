@@ -12,7 +12,7 @@ body {
 
 #Content {
 	outline: black solid 1px;
-	width: 600px;
+	width: 620px;
 	margin:0 auto;
 	text-align: left;
 	background: #ffffff;
@@ -37,7 +37,7 @@ body {
 
 #NavBar {
 	outline: black solid 1px;
-	width: 600px;
+	width: 620px;
 	height: auto;
 	margin: 0 auto;
 	position: relative;
@@ -55,7 +55,7 @@ body {
 
 #HeaderPanel {
      outline: black solid 1px;
-     width: 600px;
+     width: 620px;
      height: auto;
      margin: 0 auto;
      position: relative;
@@ -97,6 +97,7 @@ body {
 }
 
 .NavBarTextElement {
+	font-size: 14px;
 	padding: 7px;
 	text-shadow: 2px 2px 3px #333;
 	color: #ffffff;
@@ -144,7 +145,7 @@ body {
 	font-weight: bold;
 	color: #eeeeee;	
 	outline: black solid 1px;
-	width: 600px;
+	width: 620px;
 	height: auto;
 	margin: 0 auto;
 	position: relative;
